@@ -26,3 +26,6 @@ DerivedData/*
 
 *.xcscheme
 
+
+.DS_Store
+
